@@ -9,4 +9,4 @@ Requirements:
 - 1 paragraph about your future
 - 1 link to your favorite game/website
 
-Bootstrap Code Snippets: Look for `Final-Project-Spring-2017-LTSENG01` for code!
+Bootstrap Code Snippets: https://us-steam-academy.github.io/final-project-spring-2017-LTSENG01/.
